@@ -24,33 +24,9 @@
 
 </div>
 
-```bash
-┌──(who_is_the_black_hat㉿kali)-[~]
-└─$ ./sentinel --whoami
-
-  ╔══════════════════════════════════════════════════════╗
-  ║                                                      ║
-  ║   Name     »  @who_is_the_black_hat                  ║
-  ║   Role     »  Security Researcher                    ║
-  ║             »  OSINT Analyst                         ║
-  ║             »  Bug Bounty Hunter                     ║
-  ║   Platform »  Kali Linux                             ║
-  ║   Engine   »  Sentinel Pro v3.1                      ║
-  ║             »  257 files · 85K+ LOC · 34K payloads   ║
-  ║   Focus    »  Offensive Security                     ║
-  ║             »  Threat Intelligence                   ║
-  ║             »  AI-Powered Hacking                    ║
-  ║   Status   »  ████████████████░░░░  HUNTING...       ║
-  ║                                                      ║
-  ╚══════════════════════════════════════════════════════╝
-
-[✓] ReAct Brain        ONLINE
-[✓] 19 Agents          ARMED
-[✓] SentinelNet v5.0   F1=0.83
-[✓] Groq LLM           CONNECTED
-[✓] Dark Web           ROUTING via TOR
-[✓] Proxy Core         200K req/sec
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=99999&color=00E5C0&center=true&vCenter=false&multiline=true&repeat=false&width=680&height=340&lines=%E2%94%8C%E2%94%80%E2%94%80(who_is_the_black_hat%E2%98%A0kali)-[~]%0A%E2%94%94%E2%94%80%24+.%2Fsentinel+--whoami%0A%0A++Name++++%C2%BB++%40who_is_the_black_hat%0A++Role++++%C2%BB++Security+Researcher%0A+++++++++%C2%BB++OSINT+Analyst%0A+++++++++%C2%BB++Bug+Bounty+Hunter%0A++Platform+%C2%BB++Kali+Linux%0A++Engine++%C2%BB++Sentinel+Pro+v3.1%0A+++++++++%C2%BB++257+files+%C2%B7+85K%2B+LOC+%C2%B7+34K+payloads%0A++Focus+++%C2%BB++Offensive+Security+%7C+Threat+Intel+%7C+AI%0A++Status++%C2%BB++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+HUNTING...%0A%0A[%E2%9C%93]+ReAct+Brain+++++++ONLINE%0A[%E2%9C%93]+19+Agents++++++++++ARMED%0A[%E2%9C%93]+SentinelNet+v5.0+++F1%3D0.83%0A[%E2%9C%93]+Groq+LLM+++++++++++CONNECTED%0A[%E2%9C%93]+Proxy+Core+++++++++200K+req%2Fsec" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
