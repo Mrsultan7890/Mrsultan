@@ -20,7 +20,7 @@
 <!-- ABOUT — TERMINAL STYLE -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00E5C0&center=true&vCenter=true&width=500&lines=%24+cat+%2Fetc%2Fpasswd+%7C+grep+black_hat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00E5C0&center=true&vCenter=false&multiline=true&repeat=false&width=520&height=40&lines=%24+cat+%2Fetc%2Fpasswd+%7C+grep+black_hat%0Ablack_hat%3Ax%3A1337%3A1337%3AHacker%2C%2C%2C%3A%2Fhome%2Fblack_hat%3A%2Fbin%2Fzsh" />
 
 </div>
 
@@ -164,7 +164,6 @@
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=Mrsultan7890&color=00e5c0&style=flat-square&label=PROFILE+VIEWS)
-![Visitor Count](https://profile-counter.glitch.me/Mrsultan7890/count.svg)
 
 <br/>
 
