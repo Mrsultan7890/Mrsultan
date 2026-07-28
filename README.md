@@ -88,7 +88,52 @@
 
 ---
 
-<!-- SNAKE -->
+<!-- TROPHY -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00E5C0&center=true&vCenter=true&width=500&lines=%24+sentinel+--achievements" />
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mrsultan7890&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- SKILL PROGRESS BARS -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00E5C0&center=true&vCenter=true&width=500&lines=%24+sentinel+--skill-matrix" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00E5C0&center=true&vCenter=false&multiline=true&repeat=false&width=520&height=260&lines=Python+++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+95%25%0ARust++++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+85%25%0AGo++++++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+80%25%0AOSINT+++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+99%25%0ABug+Bounty++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+90%25%0AAI+%2F+ML++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+85%25%0ASolidity++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+70%25%0AForensics+++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+80%25" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- HACKER QUOTE -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00E5C0&center=true&vCenter=true&width=500&lines=%24+fortune+%7C+cowsay+-f+tux" />
+
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+quieter+you+become%2C+the+more+you+can+hear.&author=Kali+Linux)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- SNAKE + 3D GRAPH -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00E5C0&center=true&vCenter=true&width=500&lines=%24+git+log+--graph+--oneline" />
@@ -100,6 +145,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrsultan7890/Mrsultan/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Mrsultan7890/Mrsultan/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrsultan7890&bg_color=0d1117&color=00e5c0&line=00e5c0&point=00e5c0&area_color=003d35&area=true&hide_border=true&radius=6" />
 
 </div>
 
